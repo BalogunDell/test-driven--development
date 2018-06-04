@@ -1,5 +1,4 @@
-class Employee {
-
+class SimpleOperations {
 }
 
-export default Employee;
+export default SimpleOperations;
